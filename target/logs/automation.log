@@ -1,0 +1,219 @@
+2026-08-19 15:17:20.268 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.271 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify login validations with multiple invalid credentials | Tags: [@Login, @Regression, @DataDriven, @ScenarioOutline]
+2026-08-19 15:17:20.271 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify login validations with multiple invalid credentials | Tags: [@Login, @Regression, @DataDriven, @ScenarioOutline]
+2026-08-19 15:17:20.268 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.268 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.271 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify login validations with multiple invalid credentials | Tags: [@Login, @Regression, @DataDriven, @ScenarioOutline]
+2026-08-19 15:17:20.272 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.271 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify user logout functionality | Tags: [@Dashboard, @Regression, @Logout]
+2026-08-19 15:17:20.271 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify successful login with valid credentials | Tags: [@Login, @Regression, @Smoke, @ValidLogin]
+2026-08-19 15:17:20.271 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify error message when logging in with locked out user | Tags: [@Login, @Regression, @Negative, @LockedUser]
+2026-08-19 15:17:20.272 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify login using Cucumber Data Table | Tags: [@Login, @Regression, @DataTable]
+2026-08-19 15:17:20.272 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify login using Apache POI Excel test data reader | Tags: [@Login, @Regression, @ExcelData]
+2026-08-19 15:17:20.271 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - STARTING SCENARIO: Verify products listing on dashboard | Tags: [@Dashboard, @Regression, @Smoke, @Products]
+2026-08-19 15:17:20.272 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.272 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:17:20.279 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:17:20.279 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Initializing WebDriver for browser: chrome (Headless: false)
+2026-08-19 15:18:05.110 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:06.350 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:06.359 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Entering username: standard_user
+2026-08-19 15:18:06.513 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Entered text 'standard_user' into element: By.id: user-name
+2026-08-19 15:18:06.513 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:06.645 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:06.652 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:06.823 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:06.968 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - User is successfully redirected to Dashboard page.
+2026-08-19 15:18:06.971 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify login using Cucumber Data Table
+2026-08-19 15:18:06.975 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:07.180 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:07.181 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:07.181 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify login using Cucumber Data Table | Status: PASSED
+2026-08-19 15:18:07.182 [TestNG-PoolService-8] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:08.112 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:08.115 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Entering username: standard_user
+2026-08-19 15:18:08.202 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Entered text 'standard_user' into element: By.id: user-name
+2026-08-19 15:18:08.202 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:08.267 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:08.271 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:08.364 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:08.426 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - User is successfully redirected to Dashboard page.
+2026-08-19 15:18:08.452 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Retrieved text 'Products' from element: By.className: title
+2026-08-19 15:18:08.453 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - Dashboard header title matched: Products
+2026-08-19 15:18:08.454 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify successful login with valid credentials
+2026-08-19 15:18:08.628 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:08.628 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:08.628 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify successful login with valid credentials | Status: PASSED
+2026-08-19 15:18:08.628 [TestNG-PoolService-3] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:21.394 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:22.073 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:22.076 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Entering username: standard_user
+2026-08-19 15:18:22.168 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Entered text 'standard_user' into element: By.id: user-name
+2026-08-19 15:18:22.170 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:22.240 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:22.240 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:22.330 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:22.373 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - User is successfully redirected to Dashboard page.
+2026-08-19 15:18:22.392 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Retrieved text 'Products' from element: By.className: title
+2026-08-19 15:18:22.393 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Dashboard header title matched: Products
+2026-08-19 15:18:22.404 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Total products displayed on dashboard: 6
+2026-08-19 15:18:22.404 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - Verified products count on dashboard: 6
+2026-08-19 15:18:22.404 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify products listing on dashboard
+2026-08-19 15:18:22.555 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:22.556 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:22.556 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify products listing on dashboard | Status: PASSED
+2026-08-19 15:18:22.556 [TestNG-PoolService-1] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:28.253 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:28.725 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:28.726 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Entering username: invalid_user
+2026-08-19 15:18:28.838 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Entered text 'invalid_user' into element: By.id: user-name
+2026-08-19 15:18:28.838 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:28.921 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:28.923 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:29.041 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:29.123 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Retrieved text 'Epic sadface: Username and password do not match any user in this service' from element: By.cssSelector: [data-test='error']
+2026-08-19 15:18:29.124 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - Verified error message successfully: Epic sadface: Username and password do not match any user in this service
+2026-08-19 15:18:29.128 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify login validations with multiple invalid credentials
+2026-08-19 15:18:29.404 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:29.407 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:29.408 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:29.409 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify login validations with multiple invalid credentials | Status: PASSED
+2026-08-19 15:18:29.409 [TestNG-PoolService-5] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:29.888 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:29.945 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:29.946 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Entering username: locked_out_user
+2026-08-19 15:18:30.058 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Entered text 'locked_out_user' into element: By.id: user-name
+2026-08-19 15:18:30.058 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:30.146 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:30.149 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:30.250 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:30.305 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Retrieved text 'Epic sadface: Sorry, this user has been locked out.' from element: By.cssSelector: [data-test='error']
+2026-08-19 15:18:30.306 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - Verified error message successfully: Epic sadface: Sorry, this user has been locked out.
+2026-08-19 15:18:30.307 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify error message when logging in with locked out user
+2026-08-19 15:18:30.436 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:30.436 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:30.436 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify error message when logging in with locked out user | Status: PASSED
+2026-08-19 15:18:30.436 [TestNG-PoolService-4] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:30.653 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:30.737 [TestNG-PoolService-9] WARN  org.apache.poi.openxml4j.opc.OPCPackage - Unable to call close() on a package that hasn't been fully opened yet
+2026-08-19 15:18:30.745 [TestNG-PoolService-9] ERROR com.automation.framework.library.LoggerUtil - Error reading Excel data from: D:\Projects\demo\src\test\resources\testdata\TestData.xlsx
+java.io.IOException: org.apache.poi.openxml4j.exceptions.InvalidFormatException: Package should contain a content type part [M1.13]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbookFactory.create(XSSFWorkbookFactory.java:100) ~[poi-ooxml-5.4.0.jar:5.4.0]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbookFactory.create(XSSFWorkbookFactory.java:36) ~[poi-ooxml-5.4.0.jar:5.4.0]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.lambda$create$2(WorkbookFactory.java:224) ~[poi-5.4.0.jar:5.4.0]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.wp(WorkbookFactory.java:329) ~[poi-5.4.0.jar:5.4.0]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:224) ~[poi-5.4.0.jar:5.4.0]
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:185) ~[poi-5.4.0.jar:5.4.0]
+	at com.automation.framework.library.ExcelDataReader.getData(ExcelDataReader.java:39) ~[classes/:?]
+	at com.automation.framework.library.ExcelDataReader.getDefaultData(ExcelDataReader.java:97) ~[classes/:?]
+	at com.automation.framework.library.ExcelDataReader.getTestDataByCaseId(ExcelDataReader.java:109) ~[classes/:?]
+	at com.automation.framework.stepdefinitions.LoginSteps.theUserLogsInUsingTestDataFromExcel(LoginSteps.java:61) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: org.apache.poi.openxml4j.exceptions.InvalidFormatException: Package should contain a content type part [M1.13]
+	at org.apache.poi.openxml4j.opc.ZipPackage.getPartsImpl(ZipPackage.java:302) ~[poi-ooxml-5.4.0.jar:5.4.0]
+	at org.apache.poi.openxml4j.opc.OPCPackage.getParts(OPCPackage.java:796) ~[poi-ooxml-5.4.0.jar:5.4.0]
+	at org.apache.poi.openxml4j.opc.OPCPackage.open(OPCPackage.java:332) ~[poi-ooxml-5.4.0.jar:5.4.0]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbookFactory.create(XSSFWorkbookFactory.java:97) ~[poi-ooxml-5.4.0.jar:5.4.0]
+	... 39 more
+2026-08-19 15:18:30.857 [TestNG-PoolService-9] ERROR com.automation.framework.library.LoggerUtil - Step failed in Scenario: Verify login using Apache POI Excel test data reader. Screenshot attached to report.
+2026-08-19 15:18:30.916 [TestNG-PoolService-9] ERROR com.automation.framework.library.LoggerUtil - SCENARIO FAILED: Verify login using Apache POI Excel test data reader
+2026-08-19 15:18:31.066 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:31.066 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:31.066 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify login using Apache POI Excel test data reader | Status: FAILED
+2026-08-19 15:18:31.066 [TestNG-PoolService-9] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:32.056 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:32.439 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:32.441 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Entering username: standard_user
+2026-08-19 15:18:32.527 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Entered text 'standard_user' into element: By.id: user-name
+2026-08-19 15:18:32.528 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:32.614 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:32.615 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:32.718 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:32.769 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - User is successfully redirected to Dashboard page.
+2026-08-19 15:18:32.771 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Logging out from application.
+2026-08-19 15:18:32.831 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: react-burger-menu-btn
+2026-08-19 15:18:33.381 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:33.552 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: logout_sidebar_link
+2026-08-19 15:18:33.659 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:33.663 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify user logout functionality
+2026-08-19 15:18:33.926 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:33.929 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Entering username: 
+2026-08-19 15:18:34.056 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:34.059 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:34.060 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify user logout functionality | Status: PASSED
+2026-08-19 15:18:34.060 [TestNG-PoolService-2] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:34.127 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Entered text '' into element: By.id: user-name
+2026-08-19 15:18:34.127 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:34.155 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Navigating to URL: https://www.saucedemo.com/
+2026-08-19 15:18:34.221 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Entered text 'secret_sauce' into element: By.id: password
+2026-08-19 15:18:34.221 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:34.308 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:34.359 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Retrieved text 'Epic sadface: Username is required' from element: By.cssSelector: [data-test='error']
+2026-08-19 15:18:34.361 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - Verified error message successfully: Epic sadface: Username is required
+2026-08-19 15:18:34.362 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify login validations with multiple invalid credentials
+2026-08-19 15:18:34.529 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:34.529 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:34.529 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify login validations with multiple invalid credentials | Status: PASSED
+2026-08-19 15:18:34.529 [TestNG-PoolService-7] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:34.558 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - User is verified to be on the login page.
+2026-08-19 15:18:34.560 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Entering username: standard_user
+2026-08-19 15:18:34.659 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Entered text 'standard_user' into element: By.id: user-name
+2026-08-19 15:18:34.659 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Entering password.
+2026-08-19 15:18:34.733 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Entered text 'wrong_password' into element: By.id: password
+2026-08-19 15:18:34.734 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Clicking Login button.
+2026-08-19 15:18:34.803 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Clicked on element: By.id: login-button
+2026-08-19 15:18:34.845 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Retrieved text 'Epic sadface: Username and password do not match any user in this service' from element: By.cssSelector: [data-test='error']
+2026-08-19 15:18:34.845 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - Verified error message successfully: Epic sadface: Username and password do not match any user in this service
+2026-08-19 15:18:34.845 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - SCENARIO PASSED: Verify login validations with multiple invalid credentials
+2026-08-19 15:18:34.995 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - WebDriver quit successfully for current thread.
+2026-08-19 15:18:34.995 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================
+2026-08-19 15:18:34.995 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - COMPLETED SCENARIO: Verify login validations with multiple invalid credentials | Status: PASSED
+2026-08-19 15:18:34.995 [TestNG-PoolService-6] INFO  com.automation.framework.library.LoggerUtil - ==========================================================================

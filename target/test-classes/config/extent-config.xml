@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Theme (standard / dark) -->
+        <theme>dark</theme>
+        
+        <!-- Document Title -->
+        <documentTitle>Automation Execution Report</documentTitle>
+        
+        <!-- Report Name (Header) -->
+        <reportName>BDD Cucumber Test Execution Dashboard</reportName>
+        
+        <!-- Time Format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+        
+        <!-- Custom CSS -->
+        <customStyles>
+            <![CDATA[
+                .badge-primary { background-color: #4CAF50; }
+                .card { border-radius: 8px; }
+            ]]>
+        </customStyles>
+    </configuration>
+</extentreports>
